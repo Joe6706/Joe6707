@@ -11,4 +11,3 @@ I’m a Software Engineering student at McGill University, driven by curiosity a
 
 AI • Machine Learning • Computer Vision • Quantum Computing • Smart Automation • VR/AR Development
 
-📫 Let’s Connect
